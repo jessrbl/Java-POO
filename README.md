@@ -1,11 +1,25 @@
-<h6> <a href = "https://github.com/jessrbl/API-PassIn/blob/main/README-EN.md"> English version </a></h6>
-
-
 ___
+
+# O curso
+
+Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB.
+
+
+---
+
+# Tópicos já estudados
+
+
+- [x] Classes e Métodos;
+- [x] Membros Estáticos;
+- [x] Construtores;
+
+---
+
 
 ## Status
 
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM&&DESENVOLVIMENTO&color=FF69B4&style=for-the-badge)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=FF69B4&style=for-the-badge)
 
 
 ___
