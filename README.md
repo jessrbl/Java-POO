@@ -13,6 +13,16 @@ Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JP
 - [x] Classes e Métodos;
 - [x] Membros Estáticos;
 - [x] Construtores;
+- [x] Palavra this;
+- [x] Sobrecarga;
+- [x] Encapsulamento;
+- [x] Getters e Setters;
+- [x] Modificadores de Acesso;
+- [x] Tipos referência vs. tipos valor;
+- [x] Desalocação de memória - garbage collector e escopo local;
+- [x] Vetores;
+- [x] Boxing, unboxing e wrapper classes;
+- [x] Laço for each;
 
 ---
 
