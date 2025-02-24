@@ -1,4 +1,6 @@
-package Exercise5;
+package Exercise5.program;
+
+import Exercise5.entities.BankAccount;
 
 import java.util.Locale;
 import java.util.Scanner;

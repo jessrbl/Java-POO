@@ -1,4 +1,4 @@
-package Exercise5;
+package Exercise5.entities;
 
 public class BankAccount {
     private final int accountNumber;

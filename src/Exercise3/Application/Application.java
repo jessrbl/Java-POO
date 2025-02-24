@@ -1,4 +1,6 @@
-package Exercise3;
+package Exercise3.Application;
+
+import Exercise3.entities.Student;
 
 import java.util.Locale;
 import java.util.Scanner;

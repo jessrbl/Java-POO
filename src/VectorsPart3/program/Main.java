@@ -1,4 +1,6 @@
-package VectorsPart3;
+package VectorsPart3.program;
+
+import VectorsPart3.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

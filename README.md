@@ -23,6 +23,13 @@ Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JP
 - [x] Vetores;
 - [x] Boxing, unboxing e wrapper classes;
 - [x] Laço for each;
+- [x] Listas;
+- [x] Matrizes;
+- [x] Data-hora;
+- [x] Enumerações;
+- [x] Composição;
+- [ ] Herança;
+- [ ] Polimorfismo;
 
 ---
 

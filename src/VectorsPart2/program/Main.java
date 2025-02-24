@@ -1,4 +1,6 @@
-package VectorsPart2;
+package VectorsPart2.program;
+import VectorsPart2.entities.Person;
+
 import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,9 +1,9 @@
-package Lists;
+package Lists.entities;
 
 
 
     public class Employee {
-        private final int id;
+        private final Integer id;
         private String name;
         private Double salary;
 

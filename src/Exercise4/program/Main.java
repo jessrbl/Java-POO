@@ -1,4 +1,6 @@
-package Exercise4;
+package Exercise4.program;
+import Exercise4.entities.CurrencyConverter;
+
 import java.util.Locale;
 import java.util.Scanner;
 

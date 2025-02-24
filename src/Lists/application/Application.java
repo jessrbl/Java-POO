@@ -1,4 +1,6 @@
-package Lists;
+package Lists.application;
+import Lists.entities.Employee;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;

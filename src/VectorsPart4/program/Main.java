@@ -1,4 +1,6 @@
-package VectorsPart4;
+package VectorsPart4.program;
+import VectorsPart4.entities.Rent;
+
 import java.util.Locale;
 import java.util.Scanner;
 

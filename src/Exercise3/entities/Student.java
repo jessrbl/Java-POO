@@ -1,4 +1,4 @@
-package Exercise3;
+package Exercise3.entities;
 
 public class Student {
 

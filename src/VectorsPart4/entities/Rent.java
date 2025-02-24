@@ -1,4 +1,4 @@
-package VectorsPart4;
+package VectorsPart4.entities;
 
 public class Rent {
 

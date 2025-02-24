@@ -1,4 +1,4 @@
-package VectorsPart3;
+package VectorsPart3.entities;
 
 public class Product {
     private String productName;

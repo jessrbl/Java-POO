@@ -1,4 +1,4 @@
-package VectorsPart2;
+package VectorsPart2.entities;
 
 public class Person {
 
