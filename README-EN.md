@@ -26,8 +26,8 @@ The most didactic and complete course on Java and OOP, UML, JDBC, JavaFX, Spring
 - [x] Date-Time
 - [x] Enumerations
 - [x] Composition
-- [ ] Inheritance
-- [ ] Polymorphism
+- [x] Inheritance
+- [x] Polymorphism
 
 ---
 

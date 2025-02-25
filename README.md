@@ -30,8 +30,9 @@ Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JP
 - [x] Data-hora;
 - [x] Enumerações;
 - [x] Composição;
-- [ ] Herança;
-- [ ] Polimorfismo;
+- [x] Herança;
+- [x] Polimorfismo;
+
 
 ---
 
