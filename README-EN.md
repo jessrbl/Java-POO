@@ -8,26 +8,27 @@ The most didactic and complete course on Java and OOP, UML, JDBC, JavaFX, Spring
 
 # Topics Already Studied
 
-- [x] Classes and Methods
-- [x] Static Members
-- [x] Constructors
-- [x] The `this` Keyword
-- [x] Overloading
-- [x] Encapsulation
-- [x] Getters and Setters
-- [x] Access Modifiers
-- [x] Reference Types vs. Value Types
-- [x] Memory Deallocation - Garbage Collector and Local Scope
-- [x] Arrays
-- [x] Boxing, Unboxing, and Wrapper Classes
-- [x] For-Each Loop
-- [x] Lists
-- [x] Matrices
-- [x] Date-Time
-- [x] Enumerations
-- [x] Composition
-- [x] Inheritance
-- [x] Polymorphism
+- [x] Classes and Methods;
+- [x] Static Members;
+- [x] Constructors;
+- [x] The `this` Keyword;
+- [x] Overloading;
+- [x] Encapsulation;
+- [x] Getters and Setters;
+- [x] Access Modifiers;
+- [x] Reference Types vs. Value Types;
+- [x] Memory Deallocation - Garbage Collector and Local Scope;
+- [x] Arrays;
+- [x] Boxing, Unboxing, and Wrapper Classes;
+- [x] For-Each Loop;
+- [x] Lists;
+- [x] Matrices;
+- [x] Date-Time;
+- [x] Enumerations;
+- [x] Composition;
+- [x] Inheritance;
+- [x] Polymorphism;
+- [x] Abstract Classes and Methods;
 
 ---
 

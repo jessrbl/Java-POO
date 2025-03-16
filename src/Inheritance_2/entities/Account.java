@@ -1,4 +1,4 @@
-package Inheritance.entities;
+package Inheritance_2.entities;
 
 public class Account {
 

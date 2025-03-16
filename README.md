@@ -32,6 +32,7 @@ Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JP
 - [x] Composição;
 - [x] Herança;
 - [x] Polimorfismo;
+- [x] Classes e métodos abstratos
 
 
 ---
